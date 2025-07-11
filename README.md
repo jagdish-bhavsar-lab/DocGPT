@@ -91,8 +91,8 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshot
+![Architecture](https://github.com/user-attachments/assets/a2973baa-f6ed-47f3-aedb-69051472fd21)
 
-![App Screenshot](image1)
 
 ---
 
