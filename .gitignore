@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# Environment variables
+.env
